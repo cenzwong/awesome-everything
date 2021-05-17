@@ -8,3 +8,4 @@ A repo of awesome- repo
 
 # Infra
 - [Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [SysAdmin](https://github.com/kahun/awesome-sysadmin)
