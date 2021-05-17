@@ -5,3 +5,6 @@ A repo of awesome- repo
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Markdown](https://github.com/matiassingers/awesome-readme)
 - [API](https://github.com/public-apis/public-apis)
+
+# Infra
+- [Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
