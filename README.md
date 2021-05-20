@@ -1,5 +1,7 @@
 # awesome-everything
 A repo of awesome- repo
+- [Best of](https://github.com/best-of-lists/best-of)
+
 
 # Web Tech
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
