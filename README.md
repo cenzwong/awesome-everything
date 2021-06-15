@@ -1,6 +1,6 @@
 # awesome-everything
 A repo of awesome- repo
-- [Best of](https://github.com/best-of-lists/best-of)
+- [Best of](https://github.com/best-of-lists/best-of) ![](https://img.shields.io/github/stars/google/differential-privacy.svg?style=social)
 
 
 # Web Tech
