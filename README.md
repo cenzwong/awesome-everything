@@ -15,3 +15,6 @@ A repo of awesome- repo
 # Dev
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter)
 - [Jupyter Kernel](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
+# AI/ML
+- [Production ML](https://github.com/EthicalML/awesome-production-machine-learning)
