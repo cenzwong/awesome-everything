@@ -1,7 +1,7 @@
 # awesome-everything
 A repo of awesome- repo
 - [Best of](https://github.com/best-of-lists/best-of) - ![](https://img.shields.io/github/stars/best-of-lists/best-of.svg?style=social)
-
+- [awesome](https://github.com/sindresorhus/awesome) - ![](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social)
 
 # Web Tech
 - [Flask](https://github.com/humiaozuzu/awesome-flask) - ![](https://img.shields.io/github/stars/humiaozuzu/awesome-flask.svg?style=social)
