@@ -20,7 +20,9 @@ A repo of awesome- repo
 # AI/ML
 - [Production ML](https://github.com/EthicalML/awesome-production-machine-learning) - ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
 - [python-data-science](https://github.com/krzjoa/awesome-python-data-science#readme) - ![](https://img.shields.io/github/stars/krzjoa/awesome-python-data-science.svg?style=social)
-- [](https://github.com/visenger/awesome-mlops) - ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social)
+- [Awesome-MLOps](https://github.com/visenger/awesome-mlops) - ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social)
+- [MLOps Toys](https://mlops.toys/)
+- [Hugging Face - The AI community building the future.](https://huggingface.co/)
 
 # Apple Shortcuts
 - [routinehub](https://routinehub.co/)
