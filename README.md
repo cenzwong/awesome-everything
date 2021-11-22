@@ -18,6 +18,7 @@ A repo of awesome- repo
 
 # AI/ML
 - [Production ML](https://github.com/EthicalML/awesome-production-machine-learning) - ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
+- [](https://github.com/krzjoa/awesome-python-data-science#readme) - ![](https://img.shields.io/github/stars/krzjoa/awesome-python-data-science.svg?style=social)
 
 # Apple Shortcuts
 - [routinehub](https://routinehub.co/)
