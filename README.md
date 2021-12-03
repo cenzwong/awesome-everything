@@ -24,6 +24,7 @@ A repo of awesome- repo
 - [python-data-science](https://github.com/krzjoa/awesome-python-data-science#readme) - ![](https://img.shields.io/github/stars/krzjoa/awesome-python-data-science.svg?style=social)
 - [Awesome-MLOps](https://github.com/visenger/awesome-mlops) - ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - ![](https://img.shields.io/github/stars/xialeiliu/Awesome-Incremental-Learning.svg?style=social)
+- [Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning) - ![](https://img.shields.io/github/stars/MaxHalford/awesome-online-machine-learning.svg?style=social)
 - [MLOps Toys](https://mlops.toys/)
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [Paper with Code - The Latest in Machine Learning](https://paperswithcode.com/)
