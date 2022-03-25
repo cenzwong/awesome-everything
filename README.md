@@ -11,6 +11,10 @@ A repo of awesome- repo
 - [Markdown](https://github.com/matiassingers/awesome-readme) - ![](https://img.shields.io/github/stars/matiassingers/awesome-readme.svg?style=social)
 - [API](https://github.com/public-apis/public-apis) - ![](https://img.shields.io/github/stars/public-apis/public-apis.svg?style=social)
 
+### JS
+- [Best of JS](https://bestofjs.org/)
+- [Cube JS Awesome List](https://awesome.cube.dev/)
+
 ## Infra
 - [Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ![](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted.svg?style=social)
 - [SysAdmin](https://github.com/kahun/awesome-sysadmin) - ![](https://img.shields.io/github/stars/kahun/awesome-sysadmin.svg?style=social)
