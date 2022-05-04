@@ -6,11 +6,13 @@ A repo of awesome- repo
 - [Best of](https://github.com/best-of-lists/best-of) - ![](https://img.shields.io/github/stars/best-of-lists/best-of.svg?style=social)
 - [awesome](https://github.com/sindresorhus/awesome) - ![](https://img.shields.io/github/stars/sindresorhus/awesome.svg?style=social)
 - [awesome](https://github.com/icopy-site/awesome/) - ![](https://img.shields.io/github/stars/icopy-site/awesome.svg?style=social)
+- [Awesome Panel](https://awesome-panel.org/home)
 
 ## Web Tech
 - [Flask](https://github.com/humiaozuzu/awesome-flask) - ![](https://img.shields.io/github/stars/humiaozuzu/awesome-flask.svg?style=social)
 - [Markdown](https://github.com/matiassingers/awesome-readme) - ![](https://img.shields.io/github/stars/matiassingers/awesome-readme.svg?style=social)
 - [API](https://github.com/public-apis/public-apis) - ![](https://img.shields.io/github/stars/public-apis/public-apis.svg?style=social)
+
 
 ### JS
 - [Best of JS](https://bestofjs.org/)
